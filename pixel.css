@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  background: tan;
+  color: purple;
+}
+h1 {
+  font-family: "Courier New", monospace;
+  margin-bottom: 3px;
+}
+.divblock {
+  height: 20px;
+  width: 20px;
+  border: 1px solid grey;
+  display: inline-block;
+  margin: -2.5px;
+  background: white;
+}
+.color {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top: 10px;
+  border: 0.5px solid grey;
+}
+.indicator {
+  height: 20px;
+  width: 60px;
+  border: 0.5px solid grey;
+  background: white;
+}
+.indClass {
+  display: flex;
+  justify-content: center;
+  font-family: "Courier New", monospace;
+}
+label {
+  font-family: 'Courier New', monospace;
+  padding-left: 20px;
+}
+button {
+  margin-left: 20px;
+  width: 60px;
+  height: 21px;
+  color: black;
+  font-family: 'Courier New', monospace;
+}
